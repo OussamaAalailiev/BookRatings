@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/books.csv,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/books.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/tags.csv,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/tags.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/book_tags.csv,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/book_tags.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/ratings.csv,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/ratings.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/sample_book.xml,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/sample_book.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/BookRatingALS/src/main/resources/to_read.csv,/home/oussama/IdeaProjects/BookRatingALS/target/scala-2.11/classes/to_read.csv)[0m
